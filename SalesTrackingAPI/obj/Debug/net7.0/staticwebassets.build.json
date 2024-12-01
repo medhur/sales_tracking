@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "r30tg9GqhuZQHVh4eUcm5FN+khXSnirBh8mNEmWpuYI=",
+  "Source": "SalesTrackingAPI",
+  "BasePath": "_content/SalesTrackingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
